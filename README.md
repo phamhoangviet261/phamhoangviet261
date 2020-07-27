@@ -4,7 +4,9 @@
   <img src="https://raw.githubusercontent.com/phamhoangviet261/phamhoangviet261/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm <a href="https://phamhoangviet261.github.io/">Pham Hoang Viet</a> currently a Third Year student at Faculty of Information Technology, Vietnam National University Ho Chi Minh City - University of Science (VNU-HCMUS) and aspiring software developer:computer:. I like coding and have a passion with Information Technology (IT).:love: 
+    I'm <a href="https://phamhoangviet261.github.io/">Pham Hoang Viet</a> currently a Third Year student at Faculty of Information Technology, Vietnam National University Ho Chi Minh City - University of Science (VNU-HCMUS) and aspiring software developer:computer:. I like coding and have a passion with Information Technology (IT). 
+    * 🧐   Interested in full stack. Recent focus on front-end.
+    * 📚   Reading more about Astronomy, Stephen Hawking and how the computer works.
   </samp>
 </p>
 
