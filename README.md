@@ -7,7 +7,7 @@
     I'm <a href="https://phamhoangviet261.github.io/">Pham Hoang Viet</a> currently a fourth year student at Faculty of Information Technology, Vietnam National University Ho Chi Minh City - University of Science (VNU-HCMUS) and aspiring software developer:computer:. I like coding and have a passion with Information Technology (IT). <br>
     
     
-    * 🧐   Interested in full stack web development. Recent focus on front-end.
+    * 🧐   Interested in full stack web development.
     * 📚   Reading more about Astronomy, Stephen Hawking and how the computer works.
   </samp>
 </p>
