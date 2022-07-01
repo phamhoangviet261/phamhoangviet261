@@ -12,11 +12,4 @@
   </samp>
 </p>
 
-### Programming Languages  :rocket:
-|<img src="https://raw.githubusercontent.com/phamhoangviet261/phamhoangviet261/master/img/cpp.png" width=60> | <img src="https://raw.githubusercontent.com/phamhoangviet261/phamhoangviet261/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/phamhoangviet261/phamhoangviet261/master/img/html5.png" width=60> | <img src="https://raw.githubusercontent.com/phamhoangviet261/phamhoangviet261/master/img/css3.png" width=60>
-|:---:|:---:|:---:|:---:|
 
-
-### Tools :fire:
-|<img src="https://raw.githubusercontent.com/phamhoangviet261/phamhoangviet261/master/img/vscode.png" width=60> | <img src="https://raw.githubusercontent.com/phamhoangviet261/phamhoangviet261/master/img/github.svg" width=60> | 
-|:---:|:---:|
