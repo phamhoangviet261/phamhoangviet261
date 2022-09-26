@@ -1,5 +1,5 @@
 ## Hi :wave: there, 
-![](https://komarev.com/ghpvc/?username=phamhoangviet261&color=dc143c)
+![](https://komarev.com/ghpvc/?username=phamhoangviet261&color=dc143c&label=PROFILE+SHIRO+VIEWS)
 <p align="center">
   <img src="https://raw.githubusercontent.com/phamhoangviet261/phamhoangviet261/master/img/github.gif" width=100>
   <br><br>  
