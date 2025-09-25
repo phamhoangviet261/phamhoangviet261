@@ -5,7 +5,7 @@
   <br><br>  
   <br><br>
   <samp>
-    I'm <a href="https://phamhoangviet261.github.io/">Pham Hoang Viet</a> currently a fourth year student at Faculty of Information Technology, Vietnam National University Ho Chi Minh City - University of Science (VNU-HCMUS) and aspiring software developer:computer:. I like coding and have a passion with Information Technology (IT). <br>
+    I'm <a href="https://phamhoangviet261.github.io/">Pham Hoang Viet</a> :computer:. I like coding and have a passion with Information Technology (IT). <br>
     
     
     * 🧐   Interested in full stack web development.
